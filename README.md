@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabasaqib19&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabasaqib19" /> </p>
 
-- 🔭 I’m currently working on **Python,Java and Figma**
+- 🔭 I’m currently working on **Python, Figma, React**
 
 - 🌱 I’m currently learning **UI/UX Designs and Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mujtabasaqib19/UI-UX-Designs](https://github.com/mujtabasaqib19/UI-UX-Designs](https://github.com/mujtabasaqib19/UI-UX-Designs](https://github.com/mujtabasaqib19/UI-UX-Designs)
+- 👨‍💻 All of my projects are available at [https://github.com/mujtabasaqib19/UI-UX-Designs]
 
-- 💬 Ask me about **UI/UX Design**
+- 💬 Ask me about **Web Development and Artificial Intelligence**
 
 - 📫 How to reach me **mujtabasaqib654@gmail.com**
 
