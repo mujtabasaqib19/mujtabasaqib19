@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and Frontend development**
 
-- 👨‍💻 All of my projects are available at (https://github.com/mujtabasaqib19?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/mujtabasaqib19?tab=repositories
 
 - 💬 Ask me about **Web Development and Artificial Intelligence**
 
