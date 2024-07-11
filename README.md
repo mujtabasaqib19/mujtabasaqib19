@@ -70,6 +70,9 @@
 
 | React | Redux | Bootstrap | Figma |
 |----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="30" alt="react logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="30" alt="redux logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="30" alt="bootstrap logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="30" alt="figma logo"  /> |
+
+###
 
 ###
 
