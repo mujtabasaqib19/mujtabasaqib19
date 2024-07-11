@@ -54,13 +54,22 @@
 
 ###
 
+<h3 align="left">Libraries:</h3>
+
+###
+
 | Pandas | Numpy | Matplot | Seaborn | Tensorflow | Scikt-Learn |
-|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|------------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="30" alt="pandas logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="30" alt="numpy logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="30" alt="MatPlot logo"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="30" alt="Seaborn logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="30" alt="tensorflow logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="30" alt="Scikit-learn logo logo"  /> |
 
 ###
 
+<h3 align="left">Frameworks:</h3>
+
 ###
+
+| React | Redux | Bootstrap | Figma |
+|----------|----------|----------|----------|
 
 ###
 
