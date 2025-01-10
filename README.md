@@ -5,9 +5,7 @@
 <h3 align="center">I'm pursuing a bachelor's degree in Artificial Intelligence from FAST. My journey blends artistic creativity with AI's cutting-edge technology, aiming to innovate user experiences, feel free to message and collaborate on any project we can work together.</h3>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabasaqib19&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabasaqib19" /> </p>
-
+ 
 - 🔭 I’m currently working on **Python, Figma, React**
 
 - 🌱 I’m currently learning **AI and Frontend development**
