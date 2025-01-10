@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a passionate UI/UX designer currently pursuing a bachelor's degree in Artificial Intelligence from FAST. My journey blends artistic creativity with AI's cutting-edge technology, aiming to innovate user experiences, feel free to message and collaborate on any project we can work together.</h3>
+<h3 align="center">I'm pursuing a bachelor's degree in Artificial Intelligence from FAST. My journey blends artistic creativity with AI's cutting-edge technology, aiming to innovate user experiences, feel free to message and collaborate on any project we can work together.</h3>
 
 ###
 
