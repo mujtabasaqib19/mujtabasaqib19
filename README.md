@@ -8,7 +8,7 @@
 
 ###
  
-- 🔭 I’m currently working on **Python, Figma **
+- 🔭 I’m currently working on **Python, Figma**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
