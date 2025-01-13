@@ -7,18 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/960/1*Wp_7ybkx2AlpQgjDVGSw0A.gif">
 
 ###
- 
-- 🔭 I’m currently working on **Python, Figma, React**
-
-- 🌱 I’m currently learning **AI and Frontend development**
-
-- 👨‍💻 All of my projects are available at https://github.com/mujtabasaqib19?tab=repositories
-
-- 💬 Ask me about **Artificial Intelligence**
-
-- 📫 How to reach me **mujtabasaqib654@gmail.com**
-
-###
 
 <h3 align="left">Connect with me:</h3>
 
