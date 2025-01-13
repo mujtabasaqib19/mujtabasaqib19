@@ -8,11 +8,9 @@
 
 ###
  
-- 🔭 I’m currently working on **Python, Figma, React**
+- 🔭 I’m currently working on **Python, Figma **
 
-- 🌱 I’m currently learning **AI and Frontend development**
-
-- 👨‍💻 All of my projects are available at https://github.com/mujtabasaqib19?tab=repositories
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **Artificial Intelligence**
 
