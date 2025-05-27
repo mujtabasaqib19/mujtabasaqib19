@@ -8,11 +8,11 @@
 
 ###
  
-- 🔭 I’m currently working on **Python, Figma**
+- 🔭 I’m currently working on **Python, SQL, Data Transformation Tools**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Data Engineering**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **mujtabasaqib654@gmail.com**
 
