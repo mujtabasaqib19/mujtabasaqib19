@@ -1,80 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mujtaba Saqib</h1>
-
-###
-
-<h3 align="center">I'm pursuing a bachelor's degree in Artificial Intelligence from FAST. My journey blends artistic creativity with AI's cutting-edge technology, aiming to innovate user experiences, feel free to message and collaborate on any project we can work together.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-###
- 
-- 🔭 I’m currently working on **Python, SQL, Data Transformation Tools**
-
-- 🌱 I’m currently learning **Data Science and Data Engineering**
-
-- 💬 Ask me about **Data Engineering**
-
-- 📫 How to reach me **mujtabasaqib654@gmail.com**
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/mujtaba-saqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mujtaba-saqib" height="30" width="40" /></a>
-</p>
-
-###
-
-<h3 align="left">Languages:</h3>
-
-###
-
-| C | C++ | JAVA | Python | HTML | CSS | JS | Firebase | Git |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="30" alt="c logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="30" alt="cplusplus logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="30" alt="java logo"  /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="30" alt="python logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="30" alt="html5 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="30" alt="css3 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="30" alt="javascript logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="30" alt="firebase logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="30" alt="git logo"  /> |
-
-###
-
-###
-
-<h3 align="left">Libraries:</h3>
-
-###
-
-| Pandas | Numpy | Matplot | Seaborn | Tensorflow | Scikt-Learn |
-|----------|----------|----------|----------|------------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="30" alt="pandas logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="30" alt="numpy logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="30" alt="MatPlot logo"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="30" alt="Seaborn logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="30" alt="tensorflow logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="30" alt="Scikit-learn logo logo"  /> |
-
-###
-
-<h3 align="left">Frameworks:</h3>
-
-###
-
-| React | Redux | Bootstrap | Figma |
-|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="30" alt="react logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="30" alt="redux logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="30" alt="bootstrap logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="30" alt="figma logo"  /> |
-
-###
-
-###
-
-###
-
-<hr>
-
-###
-
-<h3 align="center">Statistics</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujtabasaqib19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=mujtabasaqib19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Mujtaba%20Saqib&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%26%20Analytics%20Professional&descAlignY=55&descAlign=50" />
 </div>
 
-###
+<h3 align="center">
+  🛠️ Data Engineer | 📊 Data Analyst | ⚙️ Cloud Architect
+</h3>
+
+<div align="center">
+  <p>
+    I am a <b>Data Engineer and Analytics Professional</b> passionate about turning raw data into actionable insights. 
+    With my background in Artificial Intelligence from <b>FAST</b>, I specialize in architecting scalable <b>ETL/ELT Pipelines</b>, 
+    building real-time streaming architectures on <b>AWS</b>, and developing advanced <b>Data Analyst Agents</b> to automate data exploration and reporting.
+  </p>
+</div>
+
+<br />
+
+### 🚀 What I'm currently working on & learning:
+- 🏗️ Architecting robust **AWS Data Pipelines** (API Gateway ➔ Lambda ➔ Kinesis ➔ S3 ➔ Glue ➔ Athena).
+- 🔄 Orchestrating complex data workflows and building hourly aggregations using **Apache Airflow (Amazon MWAA)**.
+- 📉 Developing real-time **Financial Dashboards** (like the PSX Market Dashboard) processing live data via Dockerized microservices.
+- 🤖 Building robust **Data Analyst Agents** driven by Large Language Models to fully automate exploratory data analysis and generation.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Data Engineering & Orchestration**<br/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+**Cloud Services (AWS)**<br/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=AWS-Lambda&logoColor=white" alt="Lambda" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white" alt="S3" />
+<img src="https://img.shields.io/badge/AWS_Glue-065C9D?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Glue" />
+<img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Athena" />
+
+**Data Analytics & AI**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtabasaqib19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mujtaba's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujtabasaqib19&theme=radical&hide_border=true&background=0D1117" alt="Mujtaba's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabasaqib19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 📫 Connect with me!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mujtaba-saqib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mujtabasaqib19">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mujtabasaqib19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
